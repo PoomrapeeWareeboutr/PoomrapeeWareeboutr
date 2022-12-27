@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PoomrapeeWareeboutr
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Web Server & Web Application
-- 💞️ I’m looking to collaborate on Squared friends~
+- 💞️ I’m looking to collaborate on same-energy friends~
 - 📫 How to reach me ... Umm.. not telling you right now!
 
 <!---
