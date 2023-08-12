@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h2 align="center">My Familiar Tools & Stacks 🪅</h2>
+<h2 align="center">My Proficient Tools & Stacks 🪅</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com/docs">
