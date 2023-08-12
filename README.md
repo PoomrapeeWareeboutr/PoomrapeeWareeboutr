@@ -90,7 +90,7 @@
 <p align="center"><i>Currently not updated...</i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/_pw/">
+  <a href="https://leetcode.com/pw22_/">
     <img width="500" height="200" src="https://leetcard.jacoblin.cool/pw22_?theme=unicorn" alt="LeetCode">  
   </a>
 </p>
