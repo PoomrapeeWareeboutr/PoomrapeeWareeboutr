@@ -1,8 +1,23 @@
 <h1 align="center">Greeting 👋</h1>
 
 <p align="center">Hello, my name is Blue, A senior software engineering student at Mahidol University.</p>
-
 <p align="center">Enthusiastic to learn and try something new to challenge my talent.</p>
+
+---
+
+<h1 align="center">Currently Learning 🎯</h1>
+
+<p align="center">
+  <a href="https://redux.js.org/introduction/getting-started">
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux">  
+  </a>
+  <a href="https://docs.robotframework.org/docs">
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot">  
+  </a>
+  <a href="https://www.selenium.dev/documentation/">
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium">  
+  </a>
+</p>
 
 ---
 
