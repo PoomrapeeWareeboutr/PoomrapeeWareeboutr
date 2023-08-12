@@ -1,9 +1,9 @@
-<h1 align="center">Greeting 👋</h1>
+<h2 align="center">Greeting 👋</h2>
 
 <p align="center">Hello, my name is Blue, A senior software engineering student at Mahidol University.</p>
 <p align="center">Enthusiastic to learn and try something new to increase and challenge my talent.</p>
 
-<h1 align="center">Currently Learning 🎯</h1>
+<h2 align="center">Currently Learning 🎯</h2>
 
 <p align="center">
   <a href="https://redux.js.org/introduction/getting-started">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h1 align="center">My Familiar Tools & Stacks 🪅</h1>
+<h2 align="center">My Familiar Tools & Stacks 🪅</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com/docs">
@@ -82,6 +82,16 @@
   </a>
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap">  
+  </a>
+</p>
+
+<h2 align="center">Old friend, LeetCode 🥇</h2>
+
+<p align="center"><i>Currently not updated...</i></p>
+
+<p align="center">
+  <a href="https://leetcode.com/_pw/">
+    <img width="500" height="200" src="https://leetcard.jacoblin.cool/pw22_?theme=nord" alt="LeetCode">  
   </a>
 </p>
 
