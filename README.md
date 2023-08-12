@@ -1,7 +1,7 @@
 <h1 align="center">Greeting 👋</h1>
 
 <p align="center">Hello, my name is Blue, A senior software engineering student at Mahidol University.</p>
-<p align="center">Enthusiastic to learn and try something new to challenge my talent.</p>
+<p align="center">Enthusiastic to learn and try something new to increase and challenge my talent.</p>
 
 <h1 align="center">Currently Learning 🎯</h1>
 
