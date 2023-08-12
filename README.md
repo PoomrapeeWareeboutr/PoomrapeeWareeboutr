@@ -3,8 +3,6 @@
 <p align="center">Hello, my name is Blue, A senior software engineering student at Mahidol University.</p>
 <p align="center">Enthusiastic to learn and try something new to challenge my talent.</p>
 
----
-
 <h1 align="center">Currently Learning 🎯</h1>
 
 <p align="center">
@@ -18,8 +16,6 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium">  
   </a>
 </p>
-
----
 
 <h1 align="center">My Familiar Tools & Stacks 🪅</h1>
 
