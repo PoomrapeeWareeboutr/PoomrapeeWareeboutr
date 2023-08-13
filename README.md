@@ -53,14 +53,14 @@
   <a href="https://vuejs.org/guide/introduction.html">
     <img height="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue">
   </a>
+  <a href="https://pinia.vuejs.org/introduction.html">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" alt="Pinia">
+  </a>
   <a href="https://tailwindcss.com/docs/">
     <img height="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind">
   </a>
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
     <img height="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap">  
-  </a>
-  <a href="https://pinia.vuejs.org/introduction.html">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" alt="Pinia">
   </a>
   <a href="https://expressjs.com/en/4x/api.html">
     <img height="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express">
