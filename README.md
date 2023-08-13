@@ -12,6 +12,9 @@
   <a href="https://rxjs.dev/guide/overview">
     <img height="40" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS">  
   </a>
+  <a href="https://nextjs.org/docs">
+    <img height="40" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJS">  
+  </a>
   <a href="https://docs.robotframework.org/docs">
     <img height="40" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot">  
   </a>
