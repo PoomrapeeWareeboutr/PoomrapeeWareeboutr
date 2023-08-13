@@ -21,9 +21,15 @@
   <a href="https://www.selenium.dev/documentation/">
     <img height="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium">  
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website">
+    <img height="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#">  
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/">
+    <img height="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core">  
+  </a>
 </p>
 
-<h2 align="center">✨ My Proficient Tools & Stacks</h2>
+<h2 align="center">✨ My Familiar Tools & Stacks</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com/docs">
