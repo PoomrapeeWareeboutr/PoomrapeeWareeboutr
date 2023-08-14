@@ -1,6 +1,6 @@
 <h2 align="center">👋 Greeting</h2>
 
-<p align="center">Hello, my name is Blue, A senior software engineering student at Mahidol University.</p>
+<p align="center">Hello, it's Blue, A senior software engineering student at Mahidol University.</p>
 <p align="center">Excited to grab new chances, always growing my skills and stretching what I can do.</p>
 
 <h2 align="center">🎯 Currently Learning</h2>
