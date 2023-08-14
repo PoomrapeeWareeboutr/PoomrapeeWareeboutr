@@ -84,7 +84,7 @@
     <img height="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot">
   </a>
   <a href="https://dev.mysql.com/doc/refman/8.0/en/preface.html">
-    <img height="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL">
+    <img height="40" src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="MySQL">
   </a>
   <a href="https://www.mongodb.com/docs/manual/">
     <img height="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB">
