@@ -3,7 +3,7 @@
 <p align="center">Hello, it's Blue, a senior software engineering student at Mahidol University.</p>
 <p align="center">Excited to grab new chances, always growing my skills and stretching what I can do.</p>
 
-<h2 align="center">🎯 Currently Learning</h2>
+<h2 align="center">🎯 Still Learning</h2>
 
 <p align="center">
   <a href="https://rxjs.dev/guide/overview">
