@@ -9,6 +9,9 @@
   <a href="https://rxjs.dev/guide/overview">
     <img height="30" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS">  
   </a>
+  <a href="https://nextjs.org/docs">
+    <img height="30" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJS">  
+  </a>
   <a href="https://docs.robotframework.org/docs">
     <img height="30" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot">  
   </a>
@@ -58,9 +61,6 @@
   </a>
   <a href="https://redux.js.org/introduction/getting-started">
     <img height="30" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux">  
-  </a>
-  <a href="https://nextjs.org/docs">
-    <img height="30" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJS">  
   </a>
   <a href="https://vuejs.org/guide/introduction.html">
     <img height="30" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue">
